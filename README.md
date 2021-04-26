@@ -8,6 +8,7 @@ On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-sarahkwon
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-sarahkwon/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-sarahkwon)
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-sarahkwon/branch/main/graph/badge.svg?token=owMWJBxSXp)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-sarahkwon)
 
 ## Integrations
 
