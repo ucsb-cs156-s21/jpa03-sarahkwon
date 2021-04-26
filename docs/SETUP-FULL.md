@@ -110,7 +110,7 @@ Creating an Auth0 account is a one-time setup step for the entire course.
 Auth0.com is a third-party service that developers manage authentication
 in their apps.  We'll be using that in this course.
 
-To set up Auth0, visit <https://auth0.com> and sign in using Google Authentication, and your UCSB email address.    
+To set up Auth0, visit <https://a uth0.com> and sign in using Google Authentication, and your UCSB email address.    
 * Why my UCSB email address?  Because when we manage shared applications
   later in the quarter, it will be much easier if we are all using a
   consistent, predictable account.   The staff and your fellow team members
